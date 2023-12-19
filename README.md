@@ -36,9 +36,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Prettier-282C34?logo=prettier&logoColor=F7B93E" alt="prettier logo" title="prettier" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/webpack-282C34?logo=webpack&logoColor=8DD6F9" alt="webpack logo" title="webpack" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Jira-282C34?logo=jira&logoColor=0052CC" alt="jira logo" title="jira" height="25" /></span>
 &nbsp;
