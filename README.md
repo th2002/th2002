@@ -18,7 +18,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="TailwindCSS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Mui-282C34?logo=mui&logoColor=#007FFF" alt="Mui logo" title="<ui" height="25" /></span>
 &nbsp;
@@ -26,11 +26,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Shadcnui-282C34?logo=shadcnui&logoColor=#000000" alt="Shadcnui logo" title="Shadcnui" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Nextui-282C34?logo=nextui&logoColor=#000000" alt="Nextui logo" title="Nextui" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=#61DAFB" alt="React logo" title="React" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&logoColor=#000000" alt="NextJS logo" title="NextJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Vuedotjs-282C34?logo=vuedotjs&logoColor=#4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs&logoColor=#4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nuxt-282C34?logo=nuxt&logoColor=#00DC82" alt="Nuxt logo" title="Nuxt" height="25" /></span>
 &nbsp;
